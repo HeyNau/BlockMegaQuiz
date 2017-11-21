@@ -1,5 +1,5 @@
-TITULO: "HEY!";
+TITULO: "";
 CUERPO: "Espero que tengas un buen día";
-OK: "";
-NO: "";
+OK: "Click";
+NO: "x";
 LINK: "http://twitter.com/HeyNau";
