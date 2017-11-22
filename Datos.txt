@@ -1,5 +1,5 @@
 TITULO: "ALERT!";
-CUERPO: "We are updating the game. Due to a problem, if you have your device in Italian, French or German. Select English in the options button below to keep playing.";
-OK: "Sorry!";
+CUERPO: "IT ONLY AFFECTS TO ITALIAN, FRENCH AND GERMAN DEVICES. If the game doesn't work for you, please, change the language in the options button. We are solving the issue as soon as possible. Update the game in 30 minutes.";
+OK: "SORRY!";
 NO: "x";
 LINK: "";
