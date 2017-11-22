@@ -1,5 +1,5 @@
-TITULO: "";
-CUERPO: "Espero que tengas un buen día";
-OK: "Click";
+TITULO: "ALERT!";
+CUERPO: "We are updating the game. Due to a problem, if you have your device in Italian, French or German. Select English in the options button below to keep playing.";
+OK: "Sorry!";
 NO: "x";
-LINK: "http://twitter.com/HeyNau";
+LINK: "";
