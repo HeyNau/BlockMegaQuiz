@@ -1,6 +1,5 @@
-TITULO: "";
-CUERPO: "IT ONLY AFFECTS TO ITALIAN, FRENCH AND GERMAN DEVICES.
-If the game doesn't work for you, please, change the language in the options button below. We are solving the issue as soon as possible. Update the game in 30 minutes.";
-OK: "SORRY!";
+TITULO: "THANK YOU!";
+CUERPO: "Our game is becoming trending in your country and we will like your opinion about a new feature: Do you want us to implement it?";
+OK: "CHECK IT!";
 NO: "x";
-LINK: "";
+LINK: "http://www.anonvote.com/poll/x587640l";
