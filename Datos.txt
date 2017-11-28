@@ -1,5 +1,6 @@
 TITULO: "THANK YOU!";
-CUERPO: "Our game is becoming a trend in your country and we would like to know your opinion: Do you want to vote? (6h left to vote)";
+CUERPO: "Our game is becoming a trending game in your country. We would love to know your opinion.
+Do you want to vote? (6h left to vote)";
 OK: "SURE, DUDE!";
 NO: "x";
 LINK: "http://www.anonvote.com/poll/x587640l";
