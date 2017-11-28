@@ -1,5 +1,5 @@
 POP UP ACTIVADO : "si";
-VERSION: "<"2.8";
+VERSION: "="2.8";
 TITULO: "ALERT!";
 CUERPO: "IT ONLY AFFECTS TO ITALIAN, FRENCH AND GERMAN DEVICES.
 If the game doesn't work for you, please, change the language in the options button below. We are solving the issue as soon as possible. Update the game in 30 minutes.";
