@@ -1,4 +1,4 @@
-TITULO: "THANK YOU!";
+TITULO: "";
 CUERPO: "Mega Quiz has become a trending game in your country. We would love to know your opinion.
 Do you want to vote? (6h left to vote)";
 OK: "SURE, DUDE!";
