@@ -6,5 +6,5 @@ CUERPO: "Pistas.";
 x PARA ACEPTABLE OK: "LOVE YOU!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "";
-UNICO, poner PlayerPrefs para no repetir: "13122017";
 Funcion para regalar pistas: "Regalar5Pistas";
+UNICO, poner PlayerPrefs para no repetir: "13122017";
