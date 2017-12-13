@@ -1,7 +1,7 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "";
 >0 PARA TODOS VERSION: "="3.2";
-TITULO: "Hey!";
+TITULO: "NEW UPDATE!";
 CUERPO: "Due to the own security of the game, we have been forced to change great part of the images by others that we have designed ourselves. Hope you can understand us. Here you have a gift for supporting us.";
 x PARA ACEPTABLE OK: "Get free hints!";
 x PARA CERRABLE : "";
