@@ -4,7 +4,7 @@ x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "";
 TITULO: "TOMA!";
 CUERPO: "Pistas.";
 x PARA ACEPTABLE OK: "LOVE YOU!";
-x PARA CERRABLE : "x";
+x PARA CERRABLE : "";
 x PARA LINK Y NO CERRABLE AQUI LINK: "";
 Funcion para regalar pistas: "Regalar5Pistas";
 UNICO, poner PlayerPrefs para no repetir: "13122017";
