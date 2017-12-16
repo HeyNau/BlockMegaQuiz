@@ -1,13 +1,13 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "";
 >0 PARA TODOS VERSION: "="3.2";
-TITULO: "WELCOME!";
-CUERPO: "This game may be too difficult.
-Get this free hints to start on a good foot.
-
-Hope you enjoy it!";
-x PARA ACEPTABLE OK: "FREE HINTS!";
+TITULO: "GOOD NEWS!";
+CUERPO: "This game will be updated in a few hours.
+Check Google Play if you want to see the new update before anyone else.
+We will bring back your images (if you are an old player)
+But for now, hope you enjoy it!";
+x PARA ACEPTABLE OK: "";
 x PARA CERRABLE : "";
 x PARA LINK Y NO CERRABLE AQUI LINK: "";
-Funcion para regalar pistas: "Regalar5Pistas";
-UNICO, poner PlayerPrefs para no repetir: "14-12-2017";
+Funcion para regalar pistas - Regalar5Pistas -: "";
+UNICO, poner PlayerPrefs para no repetir: ""; Ultimo 14-12-2017
