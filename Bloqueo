@@ -4,10 +4,9 @@ x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "";
 TITULO: "GOOD NEWS!";
 CUERPO: "This game will be updated in a few hours.
 Check Google Play if you want to see the new update before anyone else.
-We will bring back your images (if you are an old player)
-But for now, hope you enjoy it!";
-x PARA ACEPTABLE OK: "";
-x PARA CERRABLE : "";
+We will bring back your images (if you are an old player)";
+x PARA ACEPTABLE OK: "Enjoy!";
+x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "";
 Funcion para regalar pistas - Regalar5Pistas -: "";
 UNICO, poner PlayerPrefs para no repetir: ""; Ultimo 14-12-2017
