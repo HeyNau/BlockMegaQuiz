@@ -2,8 +2,7 @@ x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "";
 >0 PARA TODOS VERSION: "<"3.4";
 TITULO: "OLD MATES UPDATE!";
-CUERPO: "For those people who wanted the old images back, you have a new update!
-The game is back with the old images you asked for. Be care, it will ask you ONLY once to recover that images.
+CUERPO: "Please, update to the new game version to enjoy a lot of new features and levels!
 
 Remember to ⋆RATE⋆ the game if you ♥ it!";
 x PARA ACEPTABLE OK: "Download!";
