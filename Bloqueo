@@ -1,11 +1,12 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "";
 >0 PARA TODOS VERSION: ">"0";
-TITULO: "MERRY CHRISTMAS!";
-CUERPO: "Hope you enjoy your holiday playing this game with your family. Here you have a Christmas present from us:
+TITULO: "MERRY XMAS!";
+CUERPO: "Hope you enjoy your holiday playing this game with your family.
+Here you have our little Christmas gift:
 20 FREE HINTS!";
 x PARA ACEPTABLE OK: "THANK YOU!";
-x PARA CERRABLE : "x";
+x PARA CERRABLE : "";
 x PARA LINK Y NO CERRABLE AQUI LINK: "";
 Funcion para regalar pistas - Regalar5Pistas -: "Regalar20Pistas";
 UNICO, poner PlayerPrefs para no repetir: "25-12-2017"; Ultimo 14-12-2017
