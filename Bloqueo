@@ -1,12 +1,12 @@
-x PARA POP UP ACTIVADO : "si";
-x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "";
->0 PARA TODOS VERSION: ">"0";
+x PARA POP UP ACTIVADO : "";
+x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
+>0 PARA TODOS VERSION: ">"3.5";
 TITULO: "MERRY XMAS!";
-CUERPO: "Hope you enjoy your holiday playing this game with your family.
-Here you have our little Christmas gift:
-20 FREE HINTS!";
+CUERPO: "Hope you are enjoying your holiday.
+Take this little Christmas gift EVERYDAY you log in:
+5 FREE HINTS!";
 x PARA ACEPTABLE OK: "THANK YOU!";
 x PARA CERRABLE : "";
 x PARA LINK Y NO CERRABLE AQUI LINK: "";
-Funcion para regalar pistas - Regalar5Pistas -: "Regalar20Pistas";
-UNICO, poner PlayerPrefs para no repetir: "25-12-2017"; Ultimo 14-12-2017
+Funcion para regalar pistas - Regalar5Pistas -: "Regalar5Pistas";
+UNICO, poner PlayerPrefs para no repetir: ""; Ultimo 25-12-2017
