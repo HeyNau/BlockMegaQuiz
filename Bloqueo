@@ -9,4 +9,5 @@ x PARA ACEPTABLE OK: "THANK YOU!";
 x PARA CERRABLE : "";
 x PARA LINK Y NO CERRABLE AQUI LINK: "";
 Funcion para regalar pistas - Regalar5Pistas -: "Regalar5Pistas";
-UNICO, poner PlayerPrefs para no repetir: ""; Ultimo 25-12-2017
+UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 25-12-2017; 
+Tiempo entre anuncios: "1.2";
