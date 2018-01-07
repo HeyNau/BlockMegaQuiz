@@ -1,17 +1,16 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "";
->0 PARA TODOS VERSION: "<"3.8";
-TITULO: "NEW UPDATE!";
-CUERPO: "Now you can update the game!
-WE HAVE REMOVED ALL THE ADS for the new version
-and implemented some user suggestions.
+>0 PARA TODOS VERSION: "="3.8";
+TITULO: "WELCOME!";
+CUERPO: "WE HAVE REMOVED ALL THE ADS for this new version and implemented some user suggestions. Hope you enjoy the app!
+Take also some FREE HINTS to help you in this adventure!
 
 ♥ Remember to rate us in Google Play ♥";
-x PARA ACEPTABLE OK: "DOWNLOAD NOW!";
-x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://goo.gl/qFw2J2";
-Funcion para regalar pistas - Regalar5Pistas -: "";
-UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 25-12-2017; 
+x PARA ACEPTABLE OK: "FREE HINTS!";
+x PARA CERRABLE : "";
+x PARA LINK Y NO CERRABLE AQUI LINK: "";
+Funcion para regalar pistas - Regalar5Pistas -: "Regalar5Pistas";
+UNICO, poner PlayerPrefs para no repetir: "07-01-2018" - Ultimo 25-12-2017; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
 
 
