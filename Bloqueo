@@ -1,15 +1,17 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
 >0 PARA TODOS VERSION: "="3.8";
-TITULO: "GOOD NEWS!";
-CUERPO: "A NEW EDITION AS BEEN RELEASED!
+TITULO: "OMG!";
+CUERPO: "A NEW GAME EDITION AS BEEN RELEASED!
 Discover new games, guess the characters by their names, reach the highscores before anyone else!
-
-DOWNLOAD IT NOW!";
-x PARA ACEPTABLE OK: "DOWNLOAD!";
-x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "http://twitter.com/MegaQuizGames";
-Funcion para regalar pistas - Regalar5Pistas -: "";
+You can find the NEW APP in Google Play searching for:
+- Mega Quiz Game Characters -
+Lets celebrate it with some hints,
+Hope you like it!";
+x PARA ACEPTABLE OK: "FREE HINTS!";
+x PARA CERRABLE : "";
+x PARA LINK Y NO CERRABLE AQUI LINK: "";
+Funcion para regalar pistas - Regalar5Pistas -: "Regalar5Pistas";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
 
