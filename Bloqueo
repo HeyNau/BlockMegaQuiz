@@ -2,8 +2,9 @@ x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
 >0 PARA TODOS VERSION: "="3.8";
 TITULO: "NEW GAME!";
-CUERPO: "- MEGA QUIZ GAME CHARACTERS -
-FIND IT in GOOGLE PLAY.
+CUERPO: "SEARCH IT in GOOGLE PLAY.
+
+- MEGA QUIZ GAME CHARACTERS -
 
 Take some daily free hints to celebrate it!";
 x PARA ACEPTABLE OK: "FREE HINTS!";
