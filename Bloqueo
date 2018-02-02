@@ -3,9 +3,11 @@ x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
 >0 PARA TODOS VERSION: "<"3.9";
 TITULO: "UPDATE!";
 CUERPO: "We have just updated the game!
-Now you can guess new game-images, enjoy an interface improvement and the begginer packages are easier to unlock!
-Download it from Google Play!";
-x PARA ACEPTABLE OK: "DOWNLOAD!";
+Now you can guess new game images, enjoy the interface improvement and the begginer packages are easier to unlock!
+
+Download it now for free
+in Google Play!";
+x PARA ACEPTABLE OK: "UPDATE NOW!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://goo.gl/nUaP1e";
 Funcion para regalar pistas - Regalar5Pistas -: "";
