@@ -2,12 +2,12 @@ x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
 >0 PARA TODOS VERSION: ">"0.0";
 TITULO: "HEY!";
-CUERPO: "We are really excited you are enjoying the game!
-To celebrate it TAKE SOME FREE HINTS, come back tomorrow to get more.
+CUERPO: "WE RELEASED A NEW QUIZ APP!
+- Mega Quiz Game Characters - 
 
-Please, remember you can rate our game in Google Play,
-we will be so happy reading your opinion!";
-x PARA ACEPTABLE OK: "FREE HINTS!";
+Today Hakyer beated our new quiz app. As he has been the first he will pay a round of FREE HINTS here.
+You can play too MEGA QUIZ GAME CHARACTERS for free in Google Play!";
+x PARA ACEPTABLE OK: "HINTS from HAKYER!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: ""; https://goo.gl/nUaP1e
 Funcion para regalar pistas - Regalar5Pistas -: "Regalar5Pistas";
@@ -27,3 +27,8 @@ SEARCH IT in GOOGLE PLAY.
 - MEGA QUIZ GAME CHARACTERS -
 
 Take some daily free hints to celebrate it!
+We are really excited you are enjoying the game!
+To celebrate it TAKE SOME FREE HINTS, come back tomorrow to get more.
+
+Please, remember you can rate our game in Google Play,
+we will be so happy reading your opinion!
