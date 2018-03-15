@@ -1,18 +1,13 @@
 x PARA POP UP ACTIVADO : "si";
-x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
->0 PARA TODOS VERSION: ">"0.0";
+x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "";
+>0 PARA TODOS VERSION: "<"4.3";
 TITULO: "WARNING! BUG!";
-CUERPO: "Unfortunatelly, for this version,
-our users found 3 bugs:
-- Pack Bonus II: Kingdom Come Deliveranc doesn't have the last E.
-- Pack Icons: The answer for Monster Hunter logo is Guacamelee.
-- Pack Icons: The answer for The Witcher logo is Monster Hunter.
-
-Take some free hints as apologize.";
-x PARA ACEPTABLE OK: "FREE HINTS!";
+CUERPO: "Unfortunatelly some of our users found a couple bugs for this version.
+This is an old version. Please, update the game to our last version in Google Play.";
+x PARA ACEPTABLE OK: "UPDATE!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: ""; https://goo.gl/nUaP1e
-Funcion para regalar pistas - Regalar5Pistas -: "Regalar5Pistas";
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://goo.gl/nUaP1e"; 
+Funcion para regalar pistas - Regalar5Pistas -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
 
