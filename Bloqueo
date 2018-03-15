@@ -3,9 +3,10 @@ x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
 >0 PARA TODOS VERSION: ">"0.0";
 TITULO: "WARNING! BUG!";
 CUERPO: "Unfortunatelly, for this version,
-our users found 2 bugs:
+our users found 3 bugs:
 - Pack Bonus II: Kingdom Come Deliveranc doesn't have the last E.
 - Pack Icons: The answer of Monster Hunter logo is Guacamelee.
+- Pack Icons: The answer of The Witcher logo is Monster Hunter.
 
 Take some free hints as apologize.";
 x PARA ACEPTABLE OK: "FREE HINTS!";
