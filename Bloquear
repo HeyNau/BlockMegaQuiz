@@ -2,20 +2,14 @@ x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
 >0 PARA TODOS VERSION: "="4.3";
 TITULO: "NEWS!";
-CUERPO: "-ISSUES-
-Bonus Pack I: Pokemon Ultra Sun has been incorrectly named as Pokemon Sun.
-
-
--NEW GAME-
+CUERPO: "-NEW GAME-
 We released a new quiz where you must guess the gaming character's name.
 It's free in Google Play searching for
+
 -MEGA QUIZ GAME CHARACTERS-
 
-
--MEDIA-
-We want to thank FaviJ, an Italian influencer, for playing our game.
-Take some hints, its on him.
-(IT: FaviJ invita a 5 indizzi a tutti)";
+REMEMBER TO PLAY MEGA QUIZ EVERYDAY
+to get free hints!"
 x PARA ACEPTABLE OK: "FREE HINTS!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: ""; https://goo.gl/nUaP1e
