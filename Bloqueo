@@ -3,7 +3,14 @@ x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
 >0 PARA TODOS VERSION: "<"4.4";
 TITULO: "NEWS!";
 CUERPO: "WE HAVE RELEASED A NEW VERSION!
-Click on the button bellow to download it from Google Play Store ♥";
+• Some images has been remastered.
+• Some games has been replaced by new titles including the lastest releases.
+• "Welcome pop up" has been improved.
+• Now you will get a free hint each 3 completed levels (before it was each 5).
+• Some minor bugs fixed, as ortographic corrections in the descriptions.
+• Much more fun!
+
+Click on the button below to download it from Google Play Store ♥";
 x PARA ACEPTABLE OK: "DOWNLOAD!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://goo.gl/nUaP1e"; https://goo.gl/nUaP1e
