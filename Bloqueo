@@ -1,23 +1,13 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
->0 PARA TODOS VERSION: "="4.3";
+>0 PARA TODOS VERSION: "<"4.4";
 TITULO: "NEWS!";
-CUERPO: "-ISSUES-
-Bonus Pack I: Pokemon Ultra Sun has been incorrectly named as Pokemon Sun.
-
-
--NEW GAME-
-We released a new quiz where you must guess the gaming character's name.
-It's free in Google Play searching for
--MEGA QUIZ GAME CHARACTERS-
-
-
--FREE-
-LOG IN DAILY TO GET SOME FREE HINTS.";
-x PARA ACEPTABLE OK: "DAILY HINTS!";
+CUERPO: "WE HAVE RELEASED A NEW VERSION!
+Click on the button bellow to download it from Google Play Store ♥";
+x PARA ACEPTABLE OK: "DOWNLOAD!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: ""; https://goo.gl/nUaP1e
-Funcion para regalar pistas - Regalar5Pistas -: "Regalar5Pistas";
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://goo.gl/nUaP1e"; https://goo.gl/nUaP1e
+Funcion para regalar pistas - Regalar5Pistas -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
 
