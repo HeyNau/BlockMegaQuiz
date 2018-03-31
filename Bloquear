@@ -2,17 +2,20 @@ x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
 >0 PARA TODOS VERSION: ">"0.0";
 TITULO: "NEWS!";
-CUERPO: "-NEW GAME-
-We released a new quiz where you must guess the gaming character's name.
-It's free in Google Play searching for
+CUERPO: "-MEGA QUIZ 2-
+Are you looking for a more difficult challenge? You can guess the gaming character's name also.
+Play it for free in Google Play searching for
+
+[MEGA QUIZ GAME CHARACTERS]
 
 
--MEGA QUIZ GAME CHARACTERS-
+- 1 MILLION DOWNLOADS -
+Thanks for sharing the game, playing with your friends in the bus and supporting us in the Google Play store.
+We've reached 1 MILLION downloads and it's because of you.
+♥
 
-
-
-REMEMBER TO PLAY MEGA QUIZ EVERYDAY
-to get free hints!";
+TAKE SOME FREE DAILY HINTS
+to celebrate it ^^";
 x PARA ACEPTABLE OK: "FREE HINTS!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: ""; https://goo.gl/nUaP1e
