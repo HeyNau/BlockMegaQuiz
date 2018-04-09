@@ -1,25 +1,21 @@
 x PARA POP UP ACTIVADO : "si";
-x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
+x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "brasilian";
 >0 PARA TODOS VERSION: ">"0.0";
 TITULO: "NEWS!";
-CUERPO: "-MEGA QUIZ 2-
-Are you looking for a more difficult challenge? You can guess the gaming character's name also.
-Play it for free in Google Play searching for
-
-[MEGA QUIZ GAME CHARACTERS]
+CUERPO: "- NEW LANGUAGE -
+We've just hired a Brazilian translator. 
+Logo você pode curtir o jogo no seu idioma!
 
 
-- 1 MILLION DOWNLOADS -
-Thanks for sharing the game, playing with your friends in the bus and supporting us in the Google Play store.
-We've reached 1 MILLION downloads and it's because of you.
-♥
+We're saving as money as possible to translate it into French & Italian.
 
-TAKE SOME FREE DAILY HINTS
-to celebrate it ^^";
-x PARA ACEPTABLE OK: "FREE HINTS!";
+
+If you have any language request or just want to talk to the developers, you can contact us (me) by
+www.twitter.com/HEYNAU";
+x PARA ACEPTABLE OK: "SOON!";
 x PARA CERRABLE : "";
 x PARA LINK Y NO CERRABLE AQUI LINK: ""; https://goo.gl/nUaP1e
 x link PARA IMAGEN: ""; https://user-images.githubusercontent.com/22631832/37613817-45544116-2ba9-11e8-8856-3ff4580b45b0.png
-Funcion para regalar pistas - Regalar5Pistas -: "Regalar5Pistas";
+Funcion para regalar pistas - Regalar5Pistas -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
