@@ -15,7 +15,7 @@ www.twitter.com/HEYNAU";
 x PARA ACEPTABLE OK: "SOON!";
 x PARA CERRABLE : "";
 x PARA LINK Y NO CERRABLE AQUI LINK: ""; https://goo.gl/nUaP1e
-x link PARA IMAGEN: ""; https://user-images.githubusercontent.com/22631832/37613817-45544116-2ba9-11e8-8856-3ff4580b45b0.png
+x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/38525128-6d04d532-3c51-11e8-8f5c-e884a7defd18.png";
 Funcion para regalar pistas - Regalar5Pistas -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
