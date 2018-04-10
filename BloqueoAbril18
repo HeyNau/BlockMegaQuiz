@@ -1,12 +1,10 @@
 x PARA POP UP ACTIVADO : "si";
-x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario";
+x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "";
 >0 PARA TODOS VERSION: ">"0.0";
 TITULO: "NEWS!";
 CUERPO: "- NEW LANGUAGE -
 We've just hired a Brazilian translator. 
 Logo você pode curtir o jogo no seu idioma!
-
-
 We're saving as money as possible to translate it into French & Italian.
 x PARA ACEPTABLE OK: "OK";
 x PARA CERRABLE : "";
