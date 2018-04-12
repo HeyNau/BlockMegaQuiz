@@ -4,7 +4,8 @@ x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario"; - Bl
 TITULO: "NEWS!";
 CUERPO: "- NEW LANGUAGE -
 Now you can play in PORTUGUESE! 
-To celebrate we placed a new GIFT button. HINT: Guess this image!
+To celebrate we placed a new GIFT button.
+HINT: Guess this image!
 Also we're saving as money as possible to translate it into French & Italian.";
 x PARA ACEPTABLE OK: "GREAT";
 x PARA CERRABLE : "";
