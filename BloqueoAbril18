@@ -1,16 +1,16 @@
 x PARA POP UP ACTIVADO : "si";
-x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "Bloqueo18042018"; - BloqueoCodigo - para bloquear a una sola vez
+x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario"; - BloqueoCodigo - para bloquear a una sola vez
 >0 PARA TODOS VERSION: ">"0.0";
 TITULO: "NEWS!";
-CUERPO: "- NEW LANGUAGE -
-Now you can play in PORTUGUESE! 
-To celebrate we placed a new GIFT button.
-HINT: Guess this image!
-Also we're saving as money as possible to translate it into French & Italian.";
-x PARA ACEPTABLE OK: "GREAT";
-x PARA CERRABLE : "";
+CUERPO: "- SOON -
+Listening to your advices, we are currently working in an original keyboard to play our app.
+Also we will bring a new PIXEL package, and a lot of new images and improvements.
+By now, let's get some free hints with the secret codes.
+HINT: Guess this new game!";
+x PARA ACEPTABLE OK: "♥";
+x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: ""; https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/38525128-6d04d532-3c51-11e8-8f5c-e884a7defd18.png";
+x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/39077801-bd888646-4504-11e8-9150-b9e74359e426.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
