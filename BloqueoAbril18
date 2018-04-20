@@ -3,11 +3,10 @@ x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario"; - Bl
 >0 PARA TODOS VERSION: ">"0.0";
 TITULO: "NEWS!";
 CUERPO: "- SOON -
-Listening to your advices, we are currently working in an original keyboard to play our app.
-Also we will bring a new PIXEL package, and a lot of new images and improvements.
+Listening to your advices, we are currently working in a optional keyboard to play our app, a new PIXEL package and a lot of new images and improvements.
 By now, let's get some free hints with the secret codes.
 HINT: Guess this new game!";
-x PARA ACEPTABLE OK: "♥";
+x PARA ACEPTABLE OK: "";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: ""; https://goo.gl/nUaP1e
 x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/39077801-bd888646-4504-11e8-9150-b9e74359e426.png";
