@@ -1,16 +1,23 @@
-x PARA POP UP ACTIVADO : "";
+x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): ""; - BloqueoCodigo - para bloquear a una sola vez
 >0 PARA TODOS VERSION: ">"0.0";
-TITULO: "NEWS!";
-CUERPO: "- SOON -
-Listening to your advices, we are currently working in a optional keyboard to play our app, a new PIXEL package and a lot of new images and improvements.
+TITULO: "NEW UPDATE!";
+CUERPO: "In few hours MEGA QUIZ will be UPDATED,
+watch out the store!
 
-By now, let's get some free hints with the secret codes.
-CODE: Guess this new game release!";
-x PARA ACEPTABLE OK: "GO PLAY";
+♦ USER SUGGESTIONS ADDED ♦
+- QWERTY KEYBOARD has been added!
+- MEGA HINTS added. This hints will never fail, always will fit in the most interesting slot.
+- DESCRIPTIONS will be saved even if you log out.
+- A COMPLETE FRAME has been added to completed games.
+
+Get 3 FREE days of the new MEGA HINTS. Insert this code after the update: 
+
+- I LOVE MEGA QUIZ -";
+x PARA ACEPTABLE OK: "CANNOT WAIT!!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: ""; https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/39077801-bd888646-4504-11e8-9150-b9e74359e426.png";
+x link PARA IMAGEN: "";https://user-images.githubusercontent.com/22631832/39077801-bd888646-4504-11e8-9150-b9e74359e426.png
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
