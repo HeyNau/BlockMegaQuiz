@@ -1,29 +1,8 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): ""; - BloqueoCodigo - para bloquear a una sola vez
->0 PARA TODOS VERSION: "<"4.7";
-TITULO: "WARNING!";
-CUERPO: "Our game broke up!
-
-We were so excited about our new features that we broke the hint button.
-If you are seeing this it means you are not in the last version.
-Some users told us that maybe the Hint button is broken for you.
-
-Please, to solve that issue, update the game to the last version that should be available in a few minutes in the store.
-
-If you are READING THIS, means it's not the last version yet, check for the update in the store.
-
-Our sincerely apologies.
-HeyNau.";
-x PARA ACEPTABLE OK: "CHECK FOR UPDATE";
-x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://play.google.com/store/apps/details?id=com.HeyNau.MegaQuizGaming"; https://goo.gl/nUaP1e
-x link PARA IMAGEN: "";https://user-images.githubusercontent.com/22631832/39077801-bd888646-4504-11e8-9150-b9e74359e426.png
-Funcion para regalar pistas - Num de pistas que se regalan -: "";
-UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
-Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
-
-
-MEGA QUIZ GAMING has been UPDATED!
+>0 PARA TODOS VERSION: ">"0";
+TITULO: "NEW UPDATE!";
+CUERPO: "MEGA QUIZ GAMING has been UPDATED!
 
 ♦ USER SUGGESTIONS ADDED ♦
 - QWERTY KEYBOARD has been added!
@@ -33,4 +12,14 @@ MEGA QUIZ GAMING has been UPDATED!
 
 Get 3 FREE days of the new MEGA HINTS. Insert this code after the update: 
 
-- I LOVE MEGA QUIZ -
+- I LOVE MEGA QUIZ -";
+x PARA ACEPTABLE OK: "CHECK FOR UPDATE";
+x PARA CERRABLE : "x";
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://play.google.com/store/apps/details?id=com.HeyNau.MegaQuizGaming"; https://goo.gl/nUaP1e
+x link PARA IMAGEN: "";https://user-images.githubusercontent.com/22631832/39077801-bd888646-4504-11e8-9150-b9e74359e426.png
+Funcion para regalar pistas - Num de pistas que se regalan -: "";
+UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
+Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
+
+
+
