@@ -2,9 +2,9 @@ Si un idioma no tiene nada, sale el de ALL por defecto, si tiene algo, predomina
 Si el jugador tiene un idioma que no está en la lista, solo podrá usar el de ALL.
 Si ninguna linea tiene contenido, O NO EMPIEZA POR HTTP, no habrá pop up.
 
-*ALL:https://github.com/HeyNau/BlockMegaQuiz/master/BloqueoAbril18
+*ALL:https://raw.githubusercontent.com/HeyNau/BlockMegaQuiz/master/BloqueoAbril18
 *ENGLISH:
-*SPANISH:https://github.com/HeyNau/BlockMegaQuiz/master/Bloqueo
-*PORTUGUESE:https://github.com/HeyNau/BlockMegaQuiz/master/Bloqueo
+*SPANISH:https://raw.githubusercontent.com/HeyNau/BlockMegaQuiz/master/Bloqueo
+*PORTUGUESE:https://raw.githubusercontent.com/HeyNau/BlockMegaQuiz/master/Bloqueo
 *ITALIAN:
 *FRENCH:
