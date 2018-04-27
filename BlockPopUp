@@ -1,4 +1,5 @@
 Si un idioma no tiene nada, sale el de ALL por defecto, si tiene algo, predomina ese link.
+Si el jugador tiene un idioma que no está en la lista, solo podrá usar el de ALL.
 Si ninguna linea tiene contenido, O NO EMPIEZA POR HTTP, no habrá pop up.
 
 *ALL:https://github.com/HeyNau/BlockMegaQuiz/blob/master/BloqueoAbril18
