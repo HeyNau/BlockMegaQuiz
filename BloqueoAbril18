@@ -7,7 +7,7 @@ Do you want to be tuned to the next updates?
 Free hints and testing versions? Help reviewing new images? Help translating to your language?
 NOW YOU CAN JOIN OUR DISCORD CHANNEL!";
 x PARA ACEPTABLE OK: "JOIN US!";
-x PARA CERRABLE : "";
+x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://discord.gg/Ury2Eq2"; https://goo.gl/nUaP1e
 x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/39636452-7f164364-4fc0-11e8-92a3-068c78fa123d.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
