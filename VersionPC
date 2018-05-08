@@ -1,0 +1,15 @@
+x PARA POP UP ACTIVADO : "si";
+x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): ""; - BloqueoCodigo - para bloquear a una sola vez
+>0 PARA TODOS VERSION: ">"4.5";
+TITULO: "LET'S MEET!";
+CUERPO: "Do you use Discord as a real 2k18 gamer?
+Do you want to be tuned to the next updates?
+Free hints and testing versions? Help reviewing new images? Help translating to your language?
+NOW YOU CAN JOIN OUR DISCORD CHANNEL!";
+x PARA ACEPTABLE OK: "JOIN US!";
+x PARA CERRABLE : "x";
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://discord.gg/Ury2Eq2"; https://goo.gl/nUaP1e
+x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/39636452-7f164364-4fc0-11e8-92a3-068c78fa123d.png";
+Funcion para regalar pistas - Num de pistas que se regalan -: "";
+UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
+Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
