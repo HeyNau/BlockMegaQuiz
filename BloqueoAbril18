@@ -1,12 +1,14 @@
-x PARA POP UP ACTIVADO : "";
+x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): ""; - BloqueoCodigo - para bloquear a una sola vez
 >0 PARA TODOS VERSION: ">"4.5";
 TITULO: "Hey!";
-CUERPO: "How are you?";
-x PARA ACEPTABLE OK: "Ok";
+CUERPO: "We are trying to convince a friend to play MEGA QUIZ GAMING in her streaming.
+Do you want to come and convince her?
+Come to Twitch!";
+x PARA ACEPTABLE OK: "Let's go!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://discord.gg/Ury2Eq2"; https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/39636452-7f164364-4fc0-11e8-92a3-068c78fa123d.png";
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://www.twitch.tv/lyrulee"; https://goo.gl/nUaP1e
+x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/39785234-ad6d17ca-531b-11e8-8ae9-cf67fa695bef.jpg";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
