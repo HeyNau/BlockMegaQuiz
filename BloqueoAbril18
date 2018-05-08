@@ -4,7 +4,8 @@ x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): ""; - BloqueoC
 TITULO: "Hey!";
 CUERPO: "We are trying to convince a friend to play MEGA QUIZ GAMING in her streaming.
 Do you want to come and convince her?
-Come to Twitch!";
+Come to Twitch!
+(She's Spanish)";
 x PARA ACEPTABLE OK: "Let's go!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://www.twitch.tv/lyrulee"; https://goo.gl/nUaP1e
