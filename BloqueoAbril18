@@ -3,11 +3,9 @@ x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): ""; - BloqueoC
 >0 PARA TODOS VERSION: "<"4.8";
 TITULO: "UPDATE!";
 CUERPO: "We've just updated our game!
-+1 PIXEL GAMES PACKAGE
-+2 LOGO PACKAGES
-+30 FREE DESCRIPTIONS
-+ JEUX EN FRANÇAIS
++1 PIXEL GAMES PACKAGE || +2 LOGO PACKAGES || +30 FREE DESCRIPTIONS
 & much more!
+
 ♥ COULD YOU RATE US IN THE STORE? ♥";
 x PARA ACEPTABLE OK: "Download & Rate!";
 x PARA CERRABLE : "x";
