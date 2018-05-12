@@ -6,7 +6,7 @@ CUERPO: "Estamos trabajando en el juego en directo
 por si te quieres pasar a sugerir algo!";
 x PARA ACEPTABLE OK: "IR A TWITCH!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://www.twitch.tv/heynau";  https://goo.gl/nUaP1e
+x PARA LINK Y NO CERRABLE AQUI LINK: "";  https://goo.gl/nUaP1e https://www.twitch.tv/heynau
 x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/39956837-53fd7200-55e8-11e8-941b-79684a2a1259.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
