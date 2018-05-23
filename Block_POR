@@ -1,17 +1,13 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario"; - BloqueoCodigo - para bloquear a una sola vez
 >0 PARA TODOS VERSION: ">"4.7";
-TITULO: "NOVIDADES!";
-CUERPO: "Obrigado por atualizar!
-1 PACK PIXEL || +2 PACKS DE LOGOS
-+30 DESCRIÇÕES GRATUITAS
-e muito mais!
-
-♥ VOCÊ PODERIA NOS AVALIAR NA STORE? ♥";
-x PARA ACEPTABLE OK: "♥ AVALIE! ♥";
+TITULO: "EM BREVE!";
+CUERPO: "Em alguns dias lançaremos uma nova atualização.
+Se você quiser nos ajudar a finalizar os detalhes ou conhecer nossa comunidade, junte-se à nossa Discord!";
+x PARA ACEPTABLE OK: "VENHA!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://goo.gl/nUaP1e"; https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/39896257-b0c28f3e-54ad-11e8-847c-ce870fc36ad5.png";
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://discord.gg/epQyxxc";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
+x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/39636452-7f164364-4fc0-11e8-92a3-068c78fa123d.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
