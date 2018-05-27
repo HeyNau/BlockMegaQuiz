@@ -3,7 +3,8 @@ x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario"; - Bl
 >0 PARA TODOS VERSION: ">"4.7";
 TITULO: "DÉJÀ DISPONIBLE!";
 CUERPO: "Vous pouvez maintenant télécharger la nouvelle version et profiter des nouveaux prix quotidiens.
-Si vous voulez nous aider à finaliser les détails ou connaître notre communauté, rejoignez notre Discord!";
+Si vous voulez nous aider à finaliser les détails ou connaître notre communauté, rejoignez notre Discord!
+N'oubliez pas que nous avons également ajouté d'excellentes offres lors de l'achat de pistes dans le menu des options.";
 x PARA ACEPTABLE OK: "JOIN!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://discord.gg/epQyxxc";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
