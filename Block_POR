@@ -1,6 +1,6 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario"; - BloqueoCodigo - para bloquear a una sola vez
->0 PARA TODOS VERSION: ">"4.7";
+>0 PARA TODOS VERSION: "="0";
 TITULO: "JÁ DISPONÍVEL!";
 CUERPO: "Agora você pode baixar a nova versão e aproveitar os novos prêmios diários.
 Se você quiser nos ajudar a finalizar os detalhes ou conhecer nossa comunidade, junte-se à nossa Discord!
