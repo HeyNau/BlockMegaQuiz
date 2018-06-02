@@ -2,7 +2,7 @@ x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario"; - BloqueoCodigo - para bloquear a una sola vez
 >0 PARA TODOS VERSION: "="0";
 TITULO: "TWITCH?";
-CUERPO: "Buscamos Twitcheros. Contáctanos por email y recibe nuestra nueva versión beta donde tus espectadores podrán ayudarte a resolver los niveles usando los comandos del chat!";
+CUERPO: "Streameas en TWITCH? Conoces a alguien que sí? Contáctanos por email y recibe nuestra nueva versión beta donde tus espectadores podrán ayudarte a resolver los niveles usando los comandos del chat!";
 x PARA ACEPTABLE OK: "CONTÁCTANOS!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://discord.gg/epQyxxc";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
