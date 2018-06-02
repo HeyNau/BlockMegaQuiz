@@ -1,13 +1,12 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): ""; - BloqueoCodigo - para bloquear a una sola vez
 >0 PARA TODOS VERSION: "="0";
-TITULO: "EN DIRECTO!";
-CUERPO: "Indala y Sko está jugando MegaQuiz en directo y tus comentarios en el chat modifican la partida en tiempo real,
-vienes a probarlo?";
-x PARA ACEPTABLE OK: "ÚNETE!";
+TITULO: "TWITCH?";
+CUERPO: "Buscamos Twitcheros. Contáctanos por email y recibe nuestra nueva versión beta donde tus espectadores podrán ayudarte a resolver los niveles usando los comandos del chat!";
+x PARA ACEPTABLE OK: "CONTÁCTANOS!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "http://bit.ly/TwitchChibiSko";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/40865881-1456a734-65fb-11e8-8cac-f1cac2957eaa.png";
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://discord.gg/epQyxxc";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
+x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/39956837-53fd7200-55e8-11e8-941b-79684a2a1259.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
