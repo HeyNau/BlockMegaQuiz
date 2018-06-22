@@ -1,14 +1,14 @@
-x PARA POP UP ACTIVADO : "";
+x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario"; - BloqueoCodigo - para bloquear a una sola vez
->0 PARA TODOS VERSION: "="0";
-TITULO: "JÁ DISPONÍVEL!";
-CUERPO: "Agora você pode baixar a nova versão e aproveitar os novos prêmios diários.
-Se você quiser nos ajudar a finalizar os detalhes ou conhecer nossa comunidade, junte-se à nossa Discord!
-Lembre-se de que também adicionamos ótimas ofertas ao comprar faixas no menu de opções.";
-x PARA ACEPTABLE OK: "VEM!";
+>0 PARA TODOS VERSION: ">"0";
+TITULO: "FELIZ VERÃO!";
+CUERPO: "Gostaríamos de comemorar que o verão chegou com um código secreto!
+-SUMMER-
+Lembre-se que você pode apoiar este jogo simplesmente votando em nós no Google Play! ♥.";
+x PARA ACEPTABLE OK: "Vota!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://discord.gg/epQyxxc";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/39636452-7f164364-4fc0-11e8-92a3-068c78fa123d.png";
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://goo.gl/nUaP1e";  https://www.twitch.tv/heynau 
+x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/41792992-fb037ec2-765a-11e8-90d1-75a0cdaa5c08.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
