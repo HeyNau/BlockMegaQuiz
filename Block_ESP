@@ -1,14 +1,15 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario"; - BloqueoCodigo - para bloquear a una sola vez
 >0 PARA TODOS VERSION: ">"0";
-TITULO: "FELIZ VERANO!";
-CUERPO: "Nos gustaría celebrar que ha llegado el verano con un código secreto!
--SUMMER-
+TITULO: "YTBattleRoyale!";
+CUERPO: "Enhorabuena a todos los participantes que, junto al Rubius han participado en el mega torneo de Fortnite.
+Quieres llevarte 30 PISTAS? Usa el código secreto escribiendo el ganador de la última partida en Pisos Picados.
+
 Recuerda que puedes apoyar a este juego simplemente puntuándonos en Google Play! ♥";
 x PARA ACEPTABLE OK: "PUNTUAR!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://goo.gl/nUaP1e";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/41792992-fb037ec2-765a-11e8-90d1-75a0cdaa5c08.png";
+x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/41796145-a4fc5624-7665-11e8-8473-1d0889805a92.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
