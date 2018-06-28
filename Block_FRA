@@ -1,14 +1,13 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario"; - BloqueoCodigo - para bloquear a una sola vez
 >0 PARA TODOS VERSION: ">"0";
-TITULO: "JOYEUX ÉTÉ!";
-CUERPO: "Nous aimerions célébrer cet été est arrivé avec un code secret!
--SUMMER-
-Rappelez-vous que vous pouvez METTRE À JOUR et soutenir ce jeu simplement en nous marquant sur Google Play! ♥";
-x PARA ACEPTABLE OK: "Voter!";
+TITULO: "E3 UPDATE!";
+CUERPO: "Quelques jours se sont écoulés depuis la tenue de l'E3, mais vous pouvez maintenant profiter de Mega Quiz mis à jour avec de nombreux nouveaux titres qui ont été annoncés!
+Téléchargez-le maintenant sur Google Play.♥";
+x PARA ACEPTABLE OK: "MISE À JOUR!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://goo.gl/nUaP1e";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/41792992-fb037ec2-765a-11e8-90d1-75a0cdaa5c08.png";
+x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/42030134-19dbe412-7ad2-11e8-9c7a-2fc30d366315.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 UNICO, poner PlayerPrefs para no repetir: "" - Ultimo 10-01-2018; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
