@@ -3,7 +3,7 @@ x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario"; - Bl
 >0 PARA TODOS VERSION: ">"0";
 TITULO: "E3 UPDATE!";
 CUERPO: "Sono passati pochi giorni dall'E3, ma ora puoi goderti il Mega Quiz aggiornato con molti dei nuovi titoli che sono stati annunciati.
-Scaricalo ora su Google Play. ♥";
+Ricorda di valutare il gioco per supportarci nello sviluppo!♥";
 x PARA ACEPTABLE OK: "AGGIORNA!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://goo.gl/nUaP1e";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
