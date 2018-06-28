@@ -1,7 +1,7 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (-diario- minuscula es opcion propia): "diario"; - BloqueoCodigo - para bloquear a una sola vez
 >0 PARA TODOS VERSION: ">"0";
-TITULO: "BUONA ESTATE!";
+TITULO: "E3 UPDATE!";
 CUERPO: "Sono passati pochi giorni dall'E3, ma ora puoi goderti il Mega Quiz aggiornato con molti dei nuovi titoli che sono stati annunciati.
 Scaricalo ora su Google Play. ♥";
 x PARA ACEPTABLE OK: "AGGIORNA!";
