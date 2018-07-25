@@ -1,13 +1,15 @@
-x PARA POP UP ACTIVADO : "";
+x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
 >0 PARA TODOS VERSION:  ">"0";
-TITULO: "E3 UPDATE!";
-CUERPO: "A few days have passed since the E3 was held, but you can now enjoy Mega Quiz updated with many of the new titles that have been announced.
-Remember to rate the game to support us in the development!♥";
-x PARA ACEPTABLE OK: "UPDATE!";
+TITULO: "NEW GAME!";
+CUERPO: "Did you know we have just released a new game?
+- Guess the Emoji Video game edition -
+
+The answer of this image is a hint code!";
+x PARA ACEPTABLE OK: "CHECK IT OUT!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://goo.gl/nUaP1e";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/42030134-19dbe412-7ad2-11e8-9c7a-2fc30d366315.png";
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://play.google.com/store/search?q=com.MegaQuiz.EmojiGames&c=apps";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
+x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/43173371-d577a598-8fb4-11e8-9861-793ce0fa6ffb.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 DESFASADO, mantener las comillas pero no sirve para nada: ""; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
