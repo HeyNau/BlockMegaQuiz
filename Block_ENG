@@ -1,6 +1,6 @@
 x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
->0 PARA TODOS VERSION:  ">"5.5";
+>0 PARA TODOS VERSION:  "<"5.6";
 TITULO: "MEGA UPDATE!";
 CUERPO: "A new update has been released!
 - An awesome 100% new interface.
