@@ -6,7 +6,7 @@ CUERPO: "Sabías que hemos sacado un nuevo juego?
 - Mega quiz emoji Adivina el videojuego -
 
 La respuesta a esta imagen es un código para pistas!";
-x PARA ACEPTABLE OK: "IR A VERLO!";
+x PARA ACEPTABLE OK: "";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://play.google.com/store/search?q=com.MegaQuiz.EmojiGames&c=apps";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
 x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/43173371-d577a598-8fb4-11e8-9861-793ce0fa6ffb.png";
