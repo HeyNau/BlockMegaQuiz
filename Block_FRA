@@ -1,13 +1,12 @@
 x PARA POP UP ACTIVADO : "si";
-x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
->0 PARA TODOS VERSION:  "<"5.6";
-TITULO: "MEGA UPDATE!";
-CUERPO: "A new update has been released!
-- An awesome 100% new interface.
-- Get free hints each 30 minutes.
-- Unlock a new package: RETRO.
-and much more!";
-x PARA ACEPTABLE OK: "DOWNLOAD NOW!";
+x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
+>0 PARA TODOS VERSION:  ">"5.5";
+TITULO: "UPDATE!";
+CUERPO: "Cela fait deux jours que nous avons sorti la dernière version.
+La plus grande nouveauté est le système de conseil.
+Qu'est-ce que tu penses? As-tu aimé?
+N'hésitez pas à revoir notre jeu avec votre avis! ♥";
+x PARA ACEPTABLE OK: "REVIEW!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://play.google.com/store/apps/details?id=com.HeyNau.MegaQuizGaming";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
 x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/45234327-a91f9e80-b2d5-11e8-9584-c8357204e79e.png";
