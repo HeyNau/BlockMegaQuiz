@@ -2,10 +2,10 @@ x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
 >0 PARA TODOS VERSION:  ">"5.5";
 TITULO: "UPDATE!";
-CUERPO: "Cela fait deux jours que nous avons sorti la dernière version.
-La plus grande nouveauté est le système de conseil.
-Qu'est-ce que tu penses? As-tu aimé?
-N'hésitez pas à revoir notre jeu avec votre avis! ♥";
+CUERPO: "Já faz dois dias desde que lançamos a última versão.
+O maior novo recurso é o sistema de dicas.
+O que você acha? Você gostou?
+Sinta-se livre para rever o nosso jogo com a sua opinião! ♥";
 x PARA ACEPTABLE OK: "REVIEW!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://play.google.com/store/apps/details?id=com.HeyNau.MegaQuizGaming";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
