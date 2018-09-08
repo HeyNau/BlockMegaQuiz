@@ -1,13 +1,12 @@
 x PARA POP UP ACTIVADO : "si";
-x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
->0 PARA TODOS VERSION:  "<"5.6";
-TITULO: "MEGA UPDATE!";
-CUERPO: "Nueva versión disponible!
-- Una interfaz completamente nueva!
-- Consigue pistas gratis cada 30 min.
-- Un nuevo paquete: RETRO.
-y mucho más!";
-x PARA ACEPTABLE OK: "DESCÁRGALO YA!";
+x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
+>0 PARA TODOS VERSION:  ">"5.5";
+TITULO: "NUEVAS PISTAS!";
+CUERPO: "Han pasado dos días desde que lanzamos la última versión.
+La nueva característica más importante es el sistema de pistas.
+Qué piensas? Te gusta?
+Siéntete libre de valorar nuestro juego con tu opinión! ♥";
+x PARA ACEPTABLE OK: "REVIEW!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://play.google.com/store/apps/details?id=com.HeyNau.MegaQuizGaming";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
 x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/45234327-a91f9e80-b2d5-11e8-9584-c8357204e79e.png";
