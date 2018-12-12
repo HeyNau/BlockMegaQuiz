@@ -1,14 +1,13 @@
-x PARA POP UP ACTIVADO : "";
-x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
+x PARA POP UP ACTIVADO : "si";
+x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
 >0 PARA TODOS VERSION:  ">"5.5";
-TITULO: "HINT SYSTEM!";
-CUERPO: "Has been two days since we released the last version.
-The biggest new feature is the hint system.
-What do you think? Did you like it?
-Feel free to review our game with your opinion! ♥";
-x PARA ACEPTABLE OK: "REVIEW!";
+TITULO: "HELP US!";
+CUERPO: "We are in our first Game Dev awards. We only can win the Popularity prize (2.500$ to invest in our games). The tweet who gets more RT will win.
+Can you help us?Nos ayudas? If we win we will GIVE AWAY a free pack with as many hints as RT we can get for all those who helped us!
+Click on the link below and retweet us to help♥";
+x PARA ACEPTABLE OK: "IR AL TWEET!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://play.google.com/store/apps/details?id=com.HeyNau.MegaQuizGaming";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://twitter.com/gameboss/status/1072623440954384385?s=19";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
 x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/45234327-a91f9e80-b2d5-11e8-9584-c8357204e79e.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 DESFASADO, mantener las comillas pero no sirve para nada: ""; 
