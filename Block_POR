@@ -1,15 +1,15 @@
-x PARA POP UP ACTIVADO : "";
-x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
+x PARA POP UP ACTIVADO : "si";
+x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
 >0 PARA TODOS VERSION:  ">"5.5";
-TITULO: "UPDATE!";
-CUERPO: "Já faz dois dias desde que lançamos a última versão.
-O maior novo recurso é o sistema de dicas.
-O que você acha? Você gostou?
-Sinta-se livre para rever o nosso jogo com a sua opinião! ♥";
-x PARA ACEPTABLE OK: "REVIEW!";
+TITULO: "NOS AJUDE!";
+CUERPO: "Somos nomeados para o nosso primeiro Game Dev Award, para que possamos ganhar 2.500 $ para investir em nossos jogos.
+Precisamos de você para nos ajudar a ganhar o concurso de Melhor Audiência, onde o mais retweetado vencerá!
+Como gratidão, se vencermos, daremos a todos os nossos adeptos uma DICA com TANTAS PONTAS quantas RETWEETS conseguirmos!
+Clique no link abaixo e retuite-nos para ajudar ♥";
+x PARA ACEPTABLE OK: "DAR RETWEET!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://play.google.com/store/apps/details?id=com.HeyNau.MegaQuizGaming";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/45234327-a91f9e80-b2d5-11e8-9584-c8357204e79e.png";
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://twitter.com/gameboss/status/1072623440954384385";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
+x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/49898250-cf1a8900-fe58-11e8-9bee-37d6e48efa7f.jpg";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 DESFASADO, mantener las comillas pero no sirve para nada: ""; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
