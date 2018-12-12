@@ -2,7 +2,7 @@ x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
 >0 PARA TODOS VERSION:  ">"5.5";
 TITULO: "AYÚDANOS!";
-CUERPO: "Nos hemos presentado a unos premios donde, el premio al que optamos es el de comunidad. El que tenga más retweets ganará 2.500$ para invertir en su proyecto.
+CUERPO: "Nos hemos presentado a unos premios con nuestro nuevo título MOMBA TACTICS donde el único premio al que optamos es el de popularidad. El que tenga más retweets ganará 2.500$ para invertir en su proyecto.
 Nos ayudas? Si ganamos regalaremos un pack de tantas pistas como RT tengamos a todos los que nos sigáis en Twitter!
 Haz RT al tweet del enlace para ayudarnos! ♥";
 x PARA ACEPTABLE OK: "IR AL TWEET!";
