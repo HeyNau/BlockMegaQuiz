@@ -1,14 +1,13 @@
-x PARA POP UP ACTIVADO : "";
-x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
+x PARA POP UP ACTIVADO : "si";
+x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
 >0 PARA TODOS VERSION:  ">"5.5";
-TITULO: "NUEVAS PISTAS!";
-CUERPO: "Han pasado dos días desde que lanzamos la última versión.
-La nueva característica más importante es el sistema de pistas.
-Qué piensas? Te gusta?
-Siéntete libre de valorar nuestro juego con tu opinión! ♥";
-x PARA ACEPTABLE OK: "REVIEW!";
+TITULO: "AYÚDANOS!";
+CUERPO: "Nos hemos presentado a unos premios donde, el premio al que optamos es el de comunidad. El que tenga más retweets ganará 2.500$ para invertir en su proyecto.
+Nos ayudas? Si ganamos regalaremos un pack de tantas pistas como RT tengamos a todos los que nos sigáis en Twitter!
+Haz RT al tweet del enlace para ayudarnos! ♥";
+x PARA ACEPTABLE OK: "IR AL TWEET!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://play.google.com/store/apps/details?id=com.HeyNau.MegaQuizGaming";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://twitter.com/gameboss/status/1072623440954384385?s=19";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
 x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/45234327-a91f9e80-b2d5-11e8-9584-c8357204e79e.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 DESFASADO, mantener las comillas pero no sirve para nada: ""; 
