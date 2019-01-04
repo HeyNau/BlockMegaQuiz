@@ -10,5 +10,5 @@ x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://twitter.com/gameboss/status/1072623440954384385";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
 x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/49898250-cf1a8900-fe58-11e8-9bee-37d6e48efa7f.jpg";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
-PosBanner UP DOWN NO. Por defecto va abajo: "NO";
+PosBanner UP DOWN NO. Por defecto va abajo: "UP";
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
