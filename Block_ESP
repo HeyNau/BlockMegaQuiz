@@ -12,5 +12,5 @@ x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/49898250
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 
 PARA LOS SIGUIENTES NO ES NECESARIO TENER POP UP ACTIVADO
-PosBanner UP DOWN NO. Por defecto va abajo: "DOWN";
+PosBanner UP DOWN NO. Por defecto va abajo: "UP";
 Segundos entre intersticials. Por defecto 420s: "60000";
