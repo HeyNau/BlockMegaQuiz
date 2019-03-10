@@ -11,5 +11,5 @@ x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "https://play.google.com/store/apps/details?id=com.HeyNau.MegaQuizGaming";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
 x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/45234327-a91f9e80-b2d5-11e8-9584-c8357204e79e.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
-PosBanner UP DOWN NO. Por defecto va abajo: "DOWN";
+PosBanner UP DOWN NO. Por defecto va abajo: "UP";
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
