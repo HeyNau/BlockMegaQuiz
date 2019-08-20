@@ -1,15 +1,17 @@
-x PARA POP UP ACTIVADO : "";
-x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
+x PARA POP UP ACTIVADO : "si";
+x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
 >0 PARA TODOS VERSION:  ">"5.5";
-TITULO: "500 INDICE GRATUIT!";
-CUERPO: "Nous sommes nommés à notre premier Game Dev Award, ce qui nous permet de gagner 2.000€ à investir dans nos jeux.
-Nous avons besoin de vous pour nous aider à gagner le concours du meilleur public où le plus retweeté va gagner!
-En guise de gratification, si nous gagnons, nous donnerons à tous nos supporters un PACK CONSEIL avec AS BEAUCOUP DE CONSEILS que nous recevons!
-Cliquez sur le lien ci-dessous et retweetez-nous pour aider ♥";
-x PARA ACEPTABLE OK: "ON Y VA, RT!";
-x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://twitter.com/gameboss/status/1072623440954384385";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/49898250-cf1a8900-fe58-11e8-9bee-37d6e48efa7f.jpg";
+TITULO: "Joyeux été!";
+CUERPO: "Nous aimerions vous donner une semaine de MEGA-INDICES gratuits pour soutenir le jeu.
+Qu'est ce que c'est?
+Chaque fois que vous utilisez un indice, vous allez révéler une lettre dans un espace vide ou que vous avez mal placé.
+Ils n'échouent jamais!
+
+Utilisez le code: -MegaHintWeek- dans le menu des options.";
+x PARA ACEPTABLE OK: "Je vais les chercher!";
+x PARA CERRABLE : "";
+x PARA LINK Y NO CERRABLE AQUI LINK: "";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
+x link PARA IMAGEN: "";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 PosBanner UP DOWN NO. Por defecto va abajo: "UP";
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
