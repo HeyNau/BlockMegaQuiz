@@ -1,15 +1,17 @@
-x PARA POP UP ACTIVADO : "";
-x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
+x PARA POP UP ACTIVADO : "si";
+x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
 >0 PARA TODOS VERSION:  ">"5.5";
-TITULO: "500 DICAS FREE!";
-CUERPO: "Somos nomeados para o nosso primeiro Game Dev Award, para que possamos ganhar 2.500 $ para investir em nossos jogos.
-Precisamos de você para nos ajudar a ganhar o concurso de Melhor Audiência, onde o mais retweetado vencerá!
-Como gratidão, se vencermos, daremos a todos os nossos adeptos uma DICA com TANTAS PONTAS quantas RETWEETS conseguirmos!
-Clique no link abaixo e retuite-nos para ajudar ♥";
-x PARA ACEPTABLE OK: "DAR RETWEET!";
-x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://twitter.com/gameboss/status/1072623440954384385";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/49898250-cf1a8900-fe58-11e8-9bee-37d6e48efa7f.jpg";
+TITULO: "Feliz verão!";
+CUERPO: "Gostaríamos de lhe dar uma semana de MEGA-DICAS grátis por apoiar o jogo.
+O que é isso?
+Cada vez que você usar uma dica, você revelará uma carta em um espaço vazio ou que você colocou errado.
+Eles nunca falham!
+
+Use o código: -MegaHintWeek- no menu de opções.";
+x PARA ACEPTABLE OK: "Me dê todas!";
+x PARA CERRABLE : "";
+x PARA LINK Y NO CERRABLE AQUI LINK: "";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
+x link PARA IMAGEN: "";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 PosBanner UP DOWN NO. Por defecto va abajo: "UP"; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
