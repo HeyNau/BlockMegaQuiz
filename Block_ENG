@@ -1,15 +1,17 @@
 x PARA POP UP ACTIVADO : "";
 x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
 >0 PARA TODOS VERSION:  ">"5.5";
-TITULO: "500 FREE HINTS!";
-CUERPO: "We are nomitated to our first Game Dev Award so we can win 2.500$ to invest in our games.
-We need you to help us win the Best Audience contest where the most retweeted will win!
-As gratitute, if we win, we will give all our supporters a HINT PACK with AS MANY HINTS as RETWEETS we get!
-Click on the link below and retweet us to help ♥";
-x PARA ACEPTABLE OK: "LETS RETWEET!";
-x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://twitter.com/gameboss/status/1072623440954384385";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/49898250-cf1a8900-fe58-11e8-9bee-37d6e48efa7f.jpg";
+TITULO: "HAPPY SUMMER!";
+CUERPO: "We want to gift you a week of FREE MEGA-HINTS for supporting our game.
+What is this?
+Everytime you use a hint, it will reveal an empty slot or a wrong placed letter.
+The most accurate hint system!
+
+Use the code: -MegaHintWeek- in the options menu.";
+x PARA ACEPTABLE OK: "Thank you!";
+x PARA CERRABLE : "";
+x PARA LINK Y NO CERRABLE AQUI LINK: "";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
+x link PARA IMAGEN: "";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 PosBanner UP DOWN NO. Por defecto va abajo: "UP";
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
