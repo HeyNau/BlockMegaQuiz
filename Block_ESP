@@ -1,14 +1,17 @@
-x PARA POP UP ACTIVADO : "";
+x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
 >0 PARA TODOS VERSION:  ">"5.5";
-TITULO: "500 PISTAS GRATIS!";
-CUERPO: "Nos hemos presentado a los PREMIOS de AUDIENCIA con nuestro nuevo título MOMBA TACTICS donde el juego más retweeteado ganará 2.500$ para invertir en próximos juegos.
-Necesitamos tu ayuda para REMONTAR y GANAR! Como agradecimiento nos gustaría obseguiarte con un PACK DE PISTAS gratis con TANTAS pistas como RETWEETS consigamos si ganamos.
-Haz RT al tweet del enlace para ayudarnos! ♥";
-x PARA ACEPTABLE OK: "IR AL TWEET!";
-x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://twitter.com/gameboss/status/1072623440954384385";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
-x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/49898250-cf1a8900-fe58-11e8-9bee-37d6e48efa7f.jpg";
+TITULO: "FELIZ VERANO";
+CUERPO: "Nos gustaría regalarte una semana de MEGA-PISTAS gratis por apoyar al juego.
+Qué es esto?
+Cada vez que uses una pista revelarás una letra en un espacio vacío o que hayas colocado mal.
+Nunca fallan!
+
+Usa el código: -MegaHintWeek- en el menú de opciones.";
+x PARA ACEPTABLE OK: "Gracias!";
+x PARA CERRABLE : "";
+x PARA LINK Y NO CERRABLE AQUI LINK: "";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
+x link PARA IMAGEN: "";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 
 PARA LOS SIGUIENTES NO ES NECESARIO TENER POP UP ACTIVADO
