@@ -1,5 +1,5 @@
 x PARA POP UP ACTIVADO : "si";
-x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
+x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
 >0 PARA TODOS VERSION:  ">"5.5";
 TITULO: "FELIZ VERANO";
 CUERPO: "Nos gustaría regalarte una semana de MEGA-PISTAS gratis por apoyar el juego.
