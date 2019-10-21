@@ -3,8 +3,10 @@ x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
 >0 PARA TODOS VERSION: ">"6.7";
 TITULO: "UPDATED!";
 CUERPO: "Thank you for updating the game!
-Only a small percent of our players can enjoy this new update with over 30 new trending games to solve and you have been chosen.
-If you find any bug or sugestion, please, message us at megaquizgaming@gmail.com";
+
+Only 10% of our players can see this new update with over 30 new trending games to solve.
+
+If you find any bug or suggestion in the new content, please, message us at megaquizgaming@gmail.com";
 x PARA ACEPTABLE OK: "Go play!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "";
