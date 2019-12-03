@@ -1,16 +1,15 @@
-x PARA POP UP ACTIVADO : "";
-x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "";
->0 PARA TODOS VERSION:  ">"5.5";
-TITULO: "FELIZ VERANO";
-CUERPO: "Nos gustaría regalarte una semana de MEGA-PISTAS gratis por apoyar el juego.
-Qué es esto?
-Cada vez que uses una pista revelarás una letra en un espacio vacío o que hayas colocado mal.
-Nunca fallan!
+x PARA POP UP ACTIVADO : "si";
+x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
+>0 PARA TODOS VERSION: ">"6.7";
+TITULO: "Feliz Navidad!";
+CUERPO: "Para celebrar esta Navidad y tu apoyo jugando y calificando nuestra aplicación, queremos celebrarlo con
 
-Usa el código: -MegaHintWeek- en el menú de opciones.";
-x PARA ACEPTABLE OK: "Las tomaré!";
-x PARA CERRABLE : "";
-x PARA LINK Y NO CERRABLE AQUI LINK: "";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
+5 días de MegaHints gratis (pistas que siempre revelan espacios vacíos)
+
+Desbloquéalas escribiendo - Xmas19 - en la ventana Código secreto.";
+x PARA ACEPTABLE OK: "Gracias!";
+x PARA CERRABLE : "x";
+x PARA LINK Y NO CERRABLE AQUI LINK: "";
 x link PARA IMAGEN: "";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 
