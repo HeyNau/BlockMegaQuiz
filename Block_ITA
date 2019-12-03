@@ -1,16 +1,15 @@
-x PARA POP UP ACTIVADO : "";
+x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
->0 PARA TODOS VERSION:  ">"5.5";
-TITULO: "Buona estate!";
-CUERPO: "Vorremmo offrirti una settimana di MEGA-INDIZI gratuiti per supportare il gioco.
-Cos'è questo?
-Ogni volta che usi un suggerimento rivelerai una lettera in uno spazio vuoto o che hai inserito male.
-Non falliscono mai!
+>0 PARA TODOS VERSION: ">"6.7";
+TITULO: "Buon Natale!";
+CUERPO: "Per festeggiare questo Natale e il tuo supporto giocando e valutando la nostra app, abbiamo deciso di festeggiarlo
 
-Utilizzare il codice: -MegaHintWeek- nel menu delle opzioni.";
-x PARA ACEPTABLE OK: "Li cercherò!";
-x PARA CERRABLE : "";
-x PARA LINK Y NO CERRABLE AQUI LINK: "";  https://www.twitch.tv/heynau https://goo.gl/nUaP1e
+5 giorni di MegaHints gratuiti (suggerimenti che rivelano sempre slot vuoti)
+
+Digita - Xmas19 - codice nella finestra del codice segreto.";
+x PARA ACEPTABLE OK: "Grazie!";
+x PARA CERRABLE : "x";
+x PARA LINK Y NO CERRABLE AQUI LINK: "";
 x link PARA IMAGEN: "";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 PosBanner UP DOWN NO. Por defecto va abajo: "UP";
