@@ -1,16 +1,13 @@
-x PARA POP UP ACTIVADO : "";
+x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
 >0 PARA TODOS VERSION: ">"6.7";
-TITULO: "Feliz Navidad!";
-CUERPO: "Para celebrar esta Navidad y tu apoyo jugando y calificando nuestra aplicación, queremos celebrarlo con
-
-5 días de MegaHints gratis (pistas que siempre revelan espacios vacíos)
-
-Desbloquéalas escribiendo - Xmas19 - en la ventana Código secreto.";
-x PARA ACEPTABLE OK: "Gracias!";
+TITULO: "NUEVO JUEGO!";
+CUERPO: "En unos días lanzaremos nuestro nuevo juego - DUNGEON RHYTHM -.
+Si te gustan los juegos rítmicos y acción, disfrutarás el doble de este juego donde todo se moverá al ritmo de la música!";
+x PARA ACEPTABLE OK: "Regístrate gratis!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "";
-x link PARA IMAGEN: "";
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://play.google.com/store/apps/details?id=com.HeyNau.DungeonRythmMythology";
+x link PARA IMAGEN: "https://user-images.githubusercontent.com/22631832/70898319-b9ecb300-1ff4-11ea-9c26-d6e96f85395a.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 
 PARA LOS SIGUIENTES NO ES NECESARIO TENER POP UP ACTIVADO
