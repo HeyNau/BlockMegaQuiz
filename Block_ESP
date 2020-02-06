@@ -1,5 +1,5 @@
 x PARA POP UP ACTIVADO : "";
-x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
+x PARA POP UP NO REPETIBLE (BloqueoXXX, diario o vacio): "diario";
 >0 PARA TODOS VERSION: ">"6.7";
 TITULO: "NUEVO JUEGO!";
 CUERPO: "En unos días lanzaremos nuestro nuevo juego - DUNGEON RHYTHM -.
@@ -13,4 +13,3 @@ Funcion para regalar pistas - Num de pistas que se regalan -: "";
 PARA LOS SIGUIENTES NO ES NECESARIO TENER POP UP ACTIVADO
 PosBanner UP DOWN NO. Por defecto va abajo: "UP";
 Segundos entre intersticials. Por defecto 420s: "60000";
-DailyRewards x para SI: "";
