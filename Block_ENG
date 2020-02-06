@@ -2,15 +2,12 @@ x PARA POP UP ACTIVADO : "";
 x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
 >0 PARA TODOS VERSION: ">"6.7";
 TITULO: "Happy Xmas!";
-CUERPO: "To celebrate this Christmas and your support playing and rating our app, we decided to celebrate it with
-
-5 days of free MegaHints (Hints that always reveal empty slots)
-
-Unlock them typing - Xmas19 - in the Secret Code window.";
+CUERPO: "";
 x PARA ACEPTABLE OK: "Go play!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "";
 x link PARA IMAGEN: "";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
-PosBanner UP DOWN NO. Por defecto va abajo: "UP";
+PosBanner x para SI. Por defecto va abajo: "UP";
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
+DailyRewards x para SI: "";
