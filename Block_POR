@@ -1,5 +1,5 @@
 x PARA POP UP ACTIVADO : "";
-x PARA POP UP NO REPETIBLE (BloqueoCodigoXX, diario o vacio): "diario";
+x PARA POP UP NO REPETIBLE (BloqueoXXX, diario o vacio): "diario";
 >0 PARA TODOS VERSION: ">"6.7";
 TITULO: "Feliz Natal!";
 CUERPO: "Para comemorar este Natal e seu apoio jogando e classificando nosso aplicativo, decidimos celebrá-lo com
@@ -14,4 +14,3 @@ x link PARA IMAGEN: "";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 PosBanner UP DOWN NO. Por defecto va abajo: "UP"; 
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
-DailyRewards x para SI: "";
