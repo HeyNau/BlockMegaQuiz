@@ -1,7 +1,10 @@
-//PISTAS, MEGAPISTAS, LEVELUNLOCK, DESCUNLOCK Punto y coma tras cada premio ofrecido
+//PISTAS, MEGAPISTAS, LEVELUNLOCK, DESCUNLOCK
 //primero el valor de pistas a dar, luego el tipo de contenido y por ultimo el codigo
 //Se guardara como usado todo el string
 
 15_PISTAS_BeginnerHintPack
 20_PISTAS_TakeYourHints
 7_MEGAPISTAS_MegaHintWeek
+7_MEGAPISTAS_Megas;
+7_MEGAPISTAS_Megas1;
+7_MEGAPISTAS_Megas2;
