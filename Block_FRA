@@ -1,16 +1,14 @@
-x PARA POP UP ACTIVADO : "";
-x PARA POP UP NO REPETIBLE (BloqueoXXX, diario o vacio): "diario";
+x PARA POP UP ACTIVADO : "si";
+x PARA POP UP NO REPETIBLE (BloqueoXXX, diario o vacio): "";
 >0 PARA TODOS VERSION: ">"6.7";
 TITULO: "Joyeux Noel!";
-CUERPO: "Pour célébrer ce Noël et votre soutien en jouant et en notant notre application, nous avons décidé de le célébrer avec
-
-5 jours de MegaHints gratuits (des indices qui révèlent toujours des emplacements vides)
-
-Déverrouillez-les en écrivant - Xmas19 - dans la fenêtre Code secret.";
-x PARA ACEPTABLE OK: "Merci!";
+CUERPO: "N'oubliez pas qu'aujourd'hui à de 13h30 à 16h00 (heure de la France), Boonorter jouera notre quiz en direct.
+Venez lui lancer un câble s'il est bloqué à un niveau et dites-lui si vous venez de nous:
+C'EST UNE SURPRISE!";
+x PARA ACEPTABLE OK: "On va le voir!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "";
-x link PARA IMAGEN: "";
+x PARA LINK Y NO CERRABLE AQUI LINK: "https://bit.ly/TwitchBooNorter";
+x link PARA IMAGEN: "https://heynaugames.com/wp-content/uploads/thumb0-320x180.jpg";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 PosBanner UP DOWN NO. Por defecto va abajo: "UP";
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
