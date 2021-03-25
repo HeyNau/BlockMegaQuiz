@@ -1,5 +1,5 @@
 x PARA POP UP ACTIVADO : "";
-x PARA POP UP NO REPETIBLE (BloqueoXXX, diario o vacio): "diario";
+x PARA POP UP NO REPETIBLE (BloqueoXXX, diario o vacio): "";
 >0 PARA TODOS VERSION: ">"6.7";
 TITULO: "Buon Natale!";
 CUERPO: "Per festeggiare questo Natale e il tuo supporto giocando e valutando la nostra app, abbiamo deciso di festeggiarlo
