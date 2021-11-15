@@ -9,4 +9,4 @@ x PARA LINK Y NO CERRABLE AQUI LINK: "";
 x link PARA IMAGEN: "";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 PosBanner x para SI. Por defecto va abajo: "UP";
-Tiempo entre anuncios en segundos "450" No es necesario tener pop up activado. Vacio no hace nada: 450 o 60000;
+Tiempo entre anuncios en segundos "420" No es necesario tener pop up activado. Vacio no hace nada: 450 o 60000;
