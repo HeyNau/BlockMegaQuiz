@@ -11,4 +11,4 @@ x PARA LINK Y NO CERRABLE AQUI LINK: "https://bit.ly/TwitchBooNorter";
 x link PARA IMAGEN: "https://heynaugames.com/wp-content/uploads/BooNorter.png";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
 PosBanner UP DOWN NO. Por defecto va abajo: "UP";
-Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
+Tiempo entre anuncios en segundos "450" No es necesario tener pop up activado. Vacio no hace nada: 450;
