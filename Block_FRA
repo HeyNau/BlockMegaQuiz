@@ -2,8 +2,7 @@ x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (BloqueoXXX, diario o vacio): "diario";
 >0 PARA TODOS VERSION: ">"6.7";
 TITULO: "Nous quittons";
-CUERPO: "En raison de mauvaises reviews et support sur Google Play, le jeu n'est plus recommandé.
-Comme cela demande trop de travail pour maintenir le contenu à jour, il est possible qu'après ce mois-ci, nous retirions le jeu de la Store.";
+CUERPO: "En raison de mauvaises reviews et support sur Google Play, le jeu n'est plus recommandé. Comme cela demande trop de travail pour maintenir le contenu à jour, il est possible qu'après ce mois-ci, nous retirions le jeu de la Store.";
 x PARA ACEPTABLE OK: "Merci de jouer!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "";
