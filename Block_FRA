@@ -1,14 +1,12 @@
 x PARA POP UP ACTIVADO : "";
-x PARA POP UP NO REPETIBLE (BloqueoXXX, diario o vacio): "";
+x PARA POP UP NO REPETIBLE (BloqueoXXX, diario o vacio): "diario";
 >0 PARA TODOS VERSION: ">"6.7";
-TITULO: "BooNorter est en streaming!";
-CUERPO: "Aujourd'hui de 13h00 à 16h00 (France), St00dz jouera Mega quiz Gaming en direct.
-Nous lui fournirons quelques indice-codes à donner.
-IL NE SAIT PAS ENCORE, C'EST SURPRISE!";
-x PARA ACEPTABLE OK: "On va le voir!";
+TITULO: "Annonce";
+CUERPO: "En raison de mauvaises critiques et d'un mauvais support sur Google Play, le jeu n'est plus recommandé. Comme cela demande trop de travail pour maintenir le contenu à jour, il est possible qu'après ce mois-ci, nous retirions le jeu de la boutique. Nous souhaitons vous remercier pour le temps passé à jouer au jeu en supprimant les publicités afin que vous puissiez le terminer avant qu'il ne disparaisse.";
+x PARA ACEPTABLE OK: "Merci de jouer!";
 x PARA CERRABLE : "x";
-x PARA LINK Y NO CERRABLE AQUI LINK: "https://bit.ly/TwitchBooNorter";
-x link PARA IMAGEN: "https://heynaugames.com/wp-content/uploads/BooNorter.png";
+x PARA LINK Y NO CERRABLE AQUI LINK: "";
+x link PARA IMAGEN: "";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
-PosBanner UP DOWN NO. Por defecto va abajo: "UP";
+PosBanner UP DOWN NO. Por defecto va abajo: "NO";
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450;
