@@ -1,12 +1,14 @@
-x PARA POP UP ACTIVADO : "";
+x PARA POP UP ACTIVADO : "si";
 x PARA POP UP NO REPETIBLE (BloqueoXXX, diario o vacio): "diario";
 >0 PARA TODOS VERSION: ">"6.7";
-TITULO: "Happy Xmas!";
-CUERPO: "";
-x PARA ACEPTABLE OK: "Go play!";
+TITULO: "We're closing";
+CUERPO: "Due to poor reviews and support on Google Play, the game is no recommended enough.
+As it requires too much work to keep the content up to date, it is possible that after this month, we will remove the game from the Store.
+We've removed the pop-up ads so you can enjoy this month to the full";
+x PARA ACEPTABLE OK: "Thanks for playing!";
 x PARA CERRABLE : "x";
 x PARA LINK Y NO CERRABLE AQUI LINK: "";
 x link PARA IMAGEN: "";
 Funcion para regalar pistas - Num de pistas que se regalan -: "";
-PosBanner x para SI. Por defecto va abajo: "UP";
+PosBanner x para SI. Por defecto va abajo: "DOWN";
 Tiempo entre anuncios en segundos "60000" No es necesario tener pop up activado. Vacio no hace nada: 450 o 60000;
